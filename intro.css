@@ -1,0 +1,94 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDZV36g8RP-PWjwrvPLI9_hqBlsmfaGtf2g&usqp=CAU");
+background-position: center;
+background-size: cover;
+text-align: center;}
+
+#navt{
+  
+    height:100px;
+    width:200px;
+}
+
+#lk{
+  color:aqua;
+}
+
+
+#its{
+  color:rgb(255, 0, 0);
+}
+
+#alphab{
+  
+  height:100px;
+  width:200px;
+}
+
+
+#colorss{
+  
+  height:100px;
+  width:200px;
+}
+
+#readings{
+  
+  height:100px;
+  width:200px;
+}
+
+#testnn{
+  
+  height:100px;
+  width:200px;
+}
+
+#testalpha{
+  
+  height:100px;
+  width:200px;
+}
+
+#testcolor{
+  
+  height:100px;
+  width:200px;
+}
+
+#naapp{
+  
+  height:100px;
+  width:200px;
+}
+ 
+#Lvideo{
+  
+  height:100px;
+  width:210px;
+}
+
+
+.copy_right_footer
+{
+  position: fixed;
+  color: dimgray;
+  bottom:0;
+  width:100%;
+  font-size: 18px;
+  background-color:gold;
+  line-height: 3;
+  text-align:center;
+  text-shadow: 5px 5px 5px rgb(rgb(250, 243, 243), rgb(229, 236, 229), rgb(215, 215, 230));
+}
+
+
+#ointo{
+float: left;
+}
+#thinto{
+  float: right;
+}
+#threerow{
+  float: right;
+}

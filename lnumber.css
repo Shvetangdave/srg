@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+
+}
+
+
+#one
+{
+    font-size: 150px;
+    font-weight: bolder;
+}
+
+#spellone{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
+
+}
+
+
+#two{
+ 
+    height:100px;
+    width:300px;
+    font-size: 50px;
+}
+#speaking{
+ 
+    height:100px;
+    width:300px;
+ 
+}
